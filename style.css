@@ -1,0 +1,40 @@
+img{
+    height: 100vh;
+    width: 748px;
+}
+
+h4{
+    color: #3b7c0f;
+    text-transform: uppercase;
+}
+.container{
+    display: flex;
+}
+p{
+    margin-bottom: 76px;
+    width: 595px;
+}
+
+h1{
+    font-weight: 800px;
+    font-size: 80px;
+    width: 620px;
+    height: 211px;
+    line-height: 105.5px;
+    margin-bottom: 23px;
+    margin-top: 0px;
+}
+
+.right-section{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 162px;
+}
+span{
+    color: #4ca30d;
+}
+input{
+    padding: 17px 96px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
